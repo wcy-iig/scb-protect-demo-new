@@ -55,7 +55,7 @@
                                     data-rule-required="true" data-msg-required="กรุณากดกรอกชื่อของคุณ">
                             </div> -->
                             <div class="form-buttons">
-                                <a href="Website-FNA-02.blade.php" class="btn btn-secondary btn-anim-up" role="button" aria-disabled="true">ถัดไป</a>
+                                <a href="Website-FNA-02" class="btn btn-secondary btn-anim-up" role="button" aria-disabled="true">ถัดไป</a>
                             </div>
                         </form>
                     </div>

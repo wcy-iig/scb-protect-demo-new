@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c577513e-457c-40e8-91e7-3d80c2af617e" name="Default Changelist" comment="commit code all">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ipad_premium_cal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ipad_premium_cal.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="c577513e-457c-40e8-91e7-3d80c2af617e" name="Default Changelist" comment="commit code all" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +197,7 @@
       <updated>1611057209898</updated>
       <workItem from="1611057217816" duration="13490000" />
       <workItem from="1611072376278" duration="698000" />
-      <workItem from="1611081206711" duration="2508000" />
+      <workItem from="1611081206711" duration="2844000" />
     </task>
     <task id="LOCAL-00001" summary="commit code all">
       <created>1611069171046</created>
@@ -223,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611083561263</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit code all">
+      <created>1611083805555</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611083805555</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit code all">
+      <created>1611084019294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611084019294</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,22 +270,23 @@
     </state>
     <state x="-1330" y="199" key="RollbackChangesDialog/0.0.1440.900/-1920.-56.1920.1080@-1920.-56.1920.1080" timestamp="1611058332056" />
     <state x="2510" y="257" key="RollbackChangesDialog/0.0.1920.1040/1920.11.1920.1040@1920.11.1920.1040" timestamp="1611083727870" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1611073153306">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="2347" y="227" key="Vcs.Push.Dialog.v2" timestamp="1611083810130">
+      <screen x="1920" y="11" width="1920" height="1040" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-56.1920.1080@0.0.1440.900" timestamp="1611073153306" />
+    <state x="2347" y="227" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.11.1920.1040@1920.11.1920.1040" timestamp="1611083810130" />
     <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1611072405601">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.-56.1920.1080@0.0.1440.900" timestamp="1611072405601" />
     <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.25.1440.817/-1920.-31.1920.1055@0.25.1440.817" timestamp="1611057218081" />
-    <state x="2431" y="273" width="1291" height="624" key="find.popup" timestamp="1611082882965">
+    <state x="2431" y="273" width="1291" height="624" key="find.popup" timestamp="1611083995588">
       <screen x="1920" y="11" width="1920" height="1040" />
     </state>
     <state x="383" y="212" width="674" height="476" key="find.popup/0.0.1440.840/-1920.-31.1920.1055@0.0.1440.840" timestamp="1611060413565" />
     <state x="383" y="227" width="827" height="540" key="find.popup/0.0.1440.900/-1920.-31.1920.1055@0.0.1440.900" timestamp="1611063217267" />
     <state x="383" y="227" width="827" height="540" key="find.popup/0.0.1440.900/-1920.-56.1920.1080@0.0.1440.900" timestamp="1611066759607" />
-    <state x="2431" y="273" width="1291" height="624" key="find.popup/0.0.1920.1040/1920.11.1920.1040@1920.11.1920.1040" timestamp="1611082882965" />
+    <state x="2431" y="273" width="1291" height="624" key="find.popup/0.0.1920.1040/1920.11.1920.1040@1920.11.1920.1040" timestamp="1611083995588" />
     <state x="2545" y="243" width="894" height="782" key="search.everywhere.popup" timestamp="1611083239683">
       <screen x="1920" y="11" width="1920" height="1040" />
     </state>
