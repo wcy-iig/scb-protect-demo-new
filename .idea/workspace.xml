@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c577513e-457c-40e8-91e7-3d80c2af617e" name="Default Changelist" comment="commit code all">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ipad_premium_cal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ipad_premium_cal.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -190,7 +193,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611057209898</updated>
-      <workItem from="1611057217816" duration="11837000" />
+      <workItem from="1611057217816" duration="13490000" />
+      <workItem from="1611072376278" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="commit code all">
       <created>1611069171046</created>
@@ -199,32 +203,53 @@
       <option name="project" value="LOCAL" />
       <updated>1611069171046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit code all">
+      <created>1611070361553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611070361554</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit code all" />
     <option name="LAST_COMMIT_MESSAGE" value="commit code all" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="171" y="49" key="CommitChangelistDialog2" timestamp="1611070218317">
+    <state x="171" y="49" key="CommitChangelistDialog2" timestamp="1611073045507">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="171" y="49" key="CommitChangelistDialog2/0.0.1440.900/-1920.-56.1920.1080@0.0.1440.900" timestamp="1611070218317" />
+    <state x="171" y="49" key="CommitChangelistDialog2/0.0.1440.900/-1920.-56.1920.1080@0.0.1440.900" timestamp="1611073045507" />
     <state x="-1330" y="199" key="RollbackChangesDialog" timestamp="1611058332056">
       <screen x="-1920" y="-56" width="1920" height="1080" />
     </state>
     <state x="-1330" y="199" key="RollbackChangesDialog/0.0.1440.900/-1920.-56.1920.1080@-1920.-56.1920.1080" timestamp="1611058332056" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1611070184664">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1611073153306">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-56.1920.1080@0.0.1440.900" timestamp="1611070184664" />
-    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1611057218081">
-      <screen x="0" y="25" width="1440" height="817" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-56.1920.1080@0.0.1440.900" timestamp="1611073153306" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1611072405601">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.-56.1920.1080@0.0.1440.900" timestamp="1611072405601" />
     <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.25.1440.817/-1920.-31.1920.1055@0.25.1440.817" timestamp="1611057218081" />
     <state x="383" y="227" width="827" height="540" key="find.popup" timestamp="1611066759607">
       <screen x="0" y="0" width="1440" height="900" />
