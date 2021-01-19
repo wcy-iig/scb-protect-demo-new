@@ -41,7 +41,7 @@
             <div class="scroll-content-inner">
                 <section class="sec-buy-insurance">
                     <div class="tac-container-1">
-                        <a href="Website-FNA.blade.php" class="back" style="position: absolute;"><img src="assets/icon-back.png"></a>
+                        <a href="Website-FNA" class="back" style="position: absolute;"><img src="assets/icon-back.png"></a>
                         <div class="stff-img" style="text-align: center;">
                             <img src="assets/photo-staff.png" style="width: 120px;" />
                         </div>
