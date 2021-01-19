@@ -52,6 +52,22 @@ Route::get('/ipad_telesales', function () {
     return view('ipad_telesales');
 });
 
+Route::get('/ipad_dashboard', function () {
+    return view('ipad_dashboard');
+});
+
+Route::get('/ipad_premium_cal_bk', function () {
+    return view('ipad_premium_cal_bk');
+});
+
+Route::get('/ipad_product_detail_bk', function () {
+    return view('ipad_product_detail_bk');
+});
+
+Route::get('/ipad_telesales', function () {
+    return view('ipad_telesales');
+});
+
 Route::get('/online_checkout', function () {
     return view('online_checkout');
 });

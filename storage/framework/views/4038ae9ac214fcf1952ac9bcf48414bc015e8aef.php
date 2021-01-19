@@ -490,4 +490,4 @@
 </body>
 
 </html>
-<?php /**PATH /var/www/scb-protect-demo/resources/views/ipad_premium_cal.blade.php ENDPATH**/ ?>
+<?php /**PATH /var/www/scb-protect-demo/resources/views/ipad_premium_cal ENDPATH**/ ?>

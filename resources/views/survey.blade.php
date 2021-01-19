@@ -108,7 +108,7 @@
                                     </center>
                                     <h5>2.ความคิดเห็นเพิ่มเติม</h5>
                                     <div class="icw-fieldset-inner">
-                                        <textarea class="form-control" placeholder="ความคิดเห็นเพิ่มเติม"></textarea>
+                                           <textarea class="form-control" placeholder="ความคิดเห็นเพิ่มเติม"></textarea>
                                     </div>
                                 </div>
                                 <div class=" form-buy-ins-cnt">

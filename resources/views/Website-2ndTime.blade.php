@@ -185,45 +185,45 @@
                     </div>
                     <li class="menu-item has-submenu" path="_0_0" pp="undefined"><a
                             href="#">
-                            <div class="mi-icon"></div><span>ประกันเพื่อความคุ้มครอง</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>ประกันเพื่อความคุ้มครอง</span>
+                    </a></li>
                     <li class="menu-item has-submenu" path="_0_1" pp="undefined"><a
                             href="#">
-                            <div class="mi-icon"></div><span>ประกันเพื่อการออม</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>ประกันเพื่อการออม</span>
+                    </a></li>
                     <li class="menu-item has-submenu" path="_0_2" pp="undefined"><a
                             href="#">
-                            <div class="mi-icon"></div><span>ประกันสุขภาพ</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>ประกันสุขภาพ</span>
+                    </a></li>
                 </ul>
                 <ul class="mega-lv-2">
                     <div class="submenu" pp="_0_0"><a class="submenu-title"
                                                       href="#">
-                            <h3>ประกันเพื่อความคุ้มครอง</h3>
-                        </a>
+                        <h3>ประกันเพื่อความคุ้มครอง</h3>
+                    </a>
                         <div class="nav-cards"><a class="nc" href="#">
-                                <div class="nc-inner">
-                                    <figure><img src="./assets/protection-thumb.jpg"></figure>
-                                    <div class="nc-content">
-                                        <h5>ประกันเพื่อความคุ้มครอง</h5>
-                                        <h4>แผนคุ้มตลอดชีพมั่นคง</h4>
-                                    </div>
+                            <div class="nc-inner">
+                                <figure><img src="./assets/protection-thumb.jpg"></figure>
+                                <div class="nc-content">
+                                    <h5>ประกันเพื่อความคุ้มครอง</h5>
+                                    <h4>แผนคุ้มตลอดชีพมั่นคง</h4>
                                 </div>
-                            </a></div>
+                            </div>
+                        </a></div>
                     </div>
                     <div class="submenu" pp="_0_1"><a class="submenu-title"
                                                       href="#">
-                            <h3>ประกันเพื่อการออม</h3>
-                        </a>
+                        <h3>ประกันเพื่อการออม</h3>
+                    </a>
                         <div class="nav-cards"><a class="nc" href="#">
-                                <div class="nc-inner">
-                                    <figure><img src="./assets/aomsook-thumb.jpg"></figure>
-                                    <div class="nc-content">
-                                        <h5>ประกันเพื่อการออม</h5>
-                                        <h4>แผนคุ้มออมสุข</h4>
-                                    </div>
+                            <div class="nc-inner">
+                                <figure><img src="./assets/aomsook-thumb.jpg"></figure>
+                                <div class="nc-content">
+                                    <h5>ประกันเพื่อการออม</h5>
+                                    <h4>แผนคุ้มออมสุข</h4>
                                 </div>
-                            </a><a class="nc" #">
+                            </div>
+                        </a><a class="nc" #">
                             <div class="nc-inner">
                                 <figure><img src="./assets/fwdsaving-thumb.jpg"></figure>
                                 <div class="nc-content">
@@ -235,17 +235,17 @@
                     </div>
                     <div class="submenu" pp="_0_2"><a class="submenu-title"
                                                       href="#">
-                            <h3>ประกันสุขภาพ</h3>
-                        </a>
+                        <h3>ประกันสุขภาพ</h3>
+                    </a>
                         <div class="nav-cards"><a class="nc" href="#">
-                                <div class="nc-inner">
-                                    <figure><img src="./assets/lumpsum-thumb.jpg"></figure>
-                                    <div class="nc-content">
-                                        <h5>ประกันสุขภาพ</h5>
-                                        <h4>แผนคุ้มรักษาเหมาจ่าย</h4>
-                                    </div>
+                            <div class="nc-inner">
+                                <figure><img src="./assets/lumpsum-thumb.jpg"></figure>
+                                <div class="nc-content">
+                                    <h5>ประกันสุขภาพ</h5>
+                                    <h4>แผนคุ้มรักษาเหมาจ่าย</h4>
                                 </div>
-                            </a></div>
+                            </div>
+                        </a></div>
                     </div>
                 </ul>
             </div>
@@ -311,19 +311,19 @@
                 <ul class="nmc-item" pp="_0">
                     <li class="menu-item has-submenu" path="_0_0" pp="undefined"><a
                             href="#">
-                            <div class="mi-icon"></div><span>ประกันเพื่อความคุ้มครอง</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>ประกันเพื่อความคุ้มครอง</span>
+                    </a></li>
                     <li class="menu-item has-submenu" path="_0_1" pp="undefined"><a
                             href="#">
-                            <div class="mi-icon"></div><span>ประกันเพื่อการออม</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>ประกันเพื่อการออม</span>
+                    </a></li>
                     <li class="menu-item has-submenu" path="_0_2" pp="undefined"><a
                             href="#">
-                            <div class="mi-icon"></div><span>ประกันสุขภาพ</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>ประกันสุขภาพ</span>
+                    </a></li>
                     <li class="menu-item " path="_0_3" pp="undefined"><a href="#">
-                            <div class="mi-icon"></div><span>รวมผลิตภัณฑ์</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>รวมผลิตภัณฑ์</span>
+                    </a></li>
                 </ul>
             </div>
             <div class="nmc-lv nmc-lv3">
@@ -331,20 +331,20 @@
                 <ul class="nmc-item" pp="_0_0">
                     <li class="menu-item " path="_0_0_0" pp="undefined"><a
                             href="#">
-                            <div class="mi-icon"></div><span>แผนคุ้มตลอดชีพมั่นคง</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>แผนคุ้มตลอดชีพมั่นคง</span>
+                    </a></li>
                 </ul>
                 <ul class="nmc-item" pp="_0_1">
                     <li class="menu-item " path="_0_1_0" pp="undefined"><a
                             href="#">
-                            <div class="mi-icon"></div><span>แผนคุ้มออมสุข</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>แผนคุ้มออมสุข</span>
+                    </a></li>
                 </ul>
                 <ul class="nmc-item" pp="_0_2">
                     <li class="menu-item " path="_0_2_0" pp="undefined"><a
                             href="#">
-                            <div class="mi-icon"></div><span>แผนคุ้มรักษาเหมาจ่าย</span>
-                        </a></li>
+                        <div class="mi-icon"></div><span>แผนคุ้มรักษาเหมาจ่าย</span>
+                    </a></li>
                 </ul>
                 <ul class="nmc-item" pp="_0_3"></ul>
             </div>
@@ -378,7 +378,7 @@
                                     </div>
                                     <!--- Mobile --->
                                     <div class="mb-only" style="width:100%;">
-                                        <a href="online_premium_cal">
+                                        <a href="online_premium_cal.blade.php">
                                             <img src="./assets/banner-FNA-2nd-mobile.png" class="w-100"
                                             >
                                         </a>

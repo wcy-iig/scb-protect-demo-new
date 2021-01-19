@@ -199,13 +199,11 @@
         </span>
                                             </label>
                                         </div>
-                                        <a href="{{url('/drop-off2')}}">
-                                            <div class="form-buttons">
-                                                <button class="btn btn-secondary btn-anim-up" type="button">รับสิทธิ์
-                                                    พร้อมลงทะเบียน
-                                                </button>
-                                            </div>
-                                        </a>
+                                        <div class="form-buttons">
+                                            <button class="btn btn-secondary btn-anim-up" type="button">รับสิทธิ์
+                                                พร้อมลงทะเบียน
+                                            </button>
+                                        </div>
                                     </form>
                                 </div>
                             </section>
