@@ -55,7 +55,7 @@
 
                                 <div class="pcat">
 
-                                    <a href="Website-FNA-07.blade.php" class="pcat__item" data-type="protection">
+                                    <a href="Website-FNA-07" class="pcat__item" data-type="protection">
                                     <div class="pcat__inner">
                                         <div class="pcat__icon">
                                             <img src="assets/icon-car.png">
@@ -65,7 +65,7 @@
                                         </div>
                                     </div>
                                     </a>
-                                    <a href="Website-FNA-07.blade.php" class="pcat__item" data-type="saving">
+                                    <a href="Website-FNA-07" class="pcat__item" data-type="saving">
                                     <div class="pcat__inner">
                                         <div class="pcat__icon">
                                             <img src="assets/icon-noCar.png">

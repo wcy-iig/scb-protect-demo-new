@@ -42,7 +42,7 @@
 
                 <section class="sec-buy-insurance">
                     <div class="tac-container-1">
-                        <a href="Website-FNA-07.blade.php" class="back" style="position: absolute;"><img src="assets/icon-back.png"></a>
+                        <a href="Website-FNA-07" class="back" style="position: absolute;"><img src="assets/icon-back.png"></a>
                         <div class="stff-img" style="text-align: center;">
                             <img src="assets/photo-staff.png" style="width: 120px;" />
                         </div>
@@ -53,7 +53,7 @@
                             <div class="grid1 effect-grid-fadein aos">
                                 <!-- item -->
                                 <div class="card1 effect-item mx-auto" data-type="health">
-                                    <a href="https://scbprotect.co.th/health/lumpsum/" class="card1__inner">
+                                    <a href="/Website-FNA-09" class="card1__inner">
                                       <div class="card1__figure">
                                         <img src="assets/lumpsum-thumb-up.jpg">
                                       </div>
@@ -79,7 +79,7 @@
                                 <!-- end item -->
                                 <!-- item -->
                                 <div class="card1 effect-item" data-type="protection">
-                                    <a href="#" class="card1__inner">
+                                    <a href="/Website-FNA-09" class="card1__inner">
                                         <div class="card1__figure">
                                             <img src="./assets/employee-thumb-up.jpg">
                                         </div>
@@ -106,7 +106,7 @@
                                 <!-- end item -->
                                 <!-- item -->
                                 <div class="card1 effect-item" data-type="saving">
-                                    <a href="#" class="card1__inner">
+                                    <a href="Website-FNA-09" class="card1__inner">
                                         <div class="card1__figure">
                                             <img src="./assets/aomsook-thumb-up.jpg">
                                         </div>
