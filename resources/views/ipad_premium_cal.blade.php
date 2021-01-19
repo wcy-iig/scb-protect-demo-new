@@ -410,7 +410,7 @@
 
     <section id="premium-cal">
       <div class="tac-container-1 color-primary">
-        <h2 class="text-center" style="margin-bottom: 80px;">ให้เราช่วยค้นหาแพ็กเกจที่เหมาะกับคุณ</h2>
+        <h2 class="text-center" style="margin-bottom: 80px;">ให้เราช่วยค้นหาแพ็กเกจที่เหมาะกับคุณ <a href="javascript:acquireIO.max('video')"> Start Video Call Now </a></h2>
       </div>
     </section>
 
