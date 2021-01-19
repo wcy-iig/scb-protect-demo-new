@@ -139,7 +139,7 @@
                                     <h2 class="title-section">ลงทะเบียนรับสิทธิพิเศษ</h2>
                                     <center style="margin-bottom: 5%;">
                                         <span>แผนคุ้มรักษาเหมาจ่ายประหยัดสูงสุด 26%</span></center>
-                                    <form style="margin-top: 5px" id="formBuyInsurance" novalidate="novalidate">
+                                    <form style="margin-top: 5px" id="formBuyInsurance" action="/drop-off2" novalidate="novalidate">
                                         <div class="form-group text-left col-12 col-lg-6">
                                             <input type="text" class="form-control" name="name" placeholder="ชื่อ" value="ทศพล "
                                                    data-rule-required="true" data-msg-required="กรุณากดกรอกข้อมูล">
@@ -200,7 +200,7 @@
                                             </label>
                                         </div>
                                         <div class="form-buttons">
-                                            <button class="btn btn-secondary btn-anim-up" type="button">รับสิทธิ์
+                                            <button class="btn btn-secondary btn-anim-up" type="submit">รับสิทธิ์
                                                 พร้อมลงทะเบียน
                                             </button>
                                         </div>
