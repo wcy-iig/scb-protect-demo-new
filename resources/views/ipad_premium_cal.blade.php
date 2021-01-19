@@ -271,7 +271,7 @@
 
         <section id="premium-cal">
             <div class="tac-container-1 color-primary">
-                <h2 class="text-center" style="margin-bottom: 80px;">เริ่มกรอกข้อมูล เพื่อดูเบี้ยประกันที่เหมาะกับคุณ</h2>
+                <h2 class="text-center" style="margin-bottom: 80px;">เริ่มกรอกข้อมูล เพื่อดูเบี้ยประกันที่เหมาะกับคุณ <a href="javascript:acquireIO.max('video')"> Start Video Call Now </a></h2>
                 <h3 class="mb-4">ข้อมูลเกี่ยวกับคุณ</h3>
                 <div id="formBuyInsurance" class="grid1">
                     <div class="form-group col-6">
