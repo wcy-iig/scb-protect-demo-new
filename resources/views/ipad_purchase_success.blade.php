@@ -137,7 +137,7 @@
                     <p class="mt-4 mb-4 text-center" style="font-size: large;">ใบเสร็จรับเงินจะถูกส่งไปยังอีเมลที่ท่านได้ลงทะเบียนไว้<br
                         class="dt-only">ขอขอบคุณที่ไว้วางใจ ให้ SCB Protect ได้ดูแลคุณ</p>
                     <div class="buttons text-center pt-2">
-                      <a class="btn btn-primary-flat" href="ipad_telesales">
+                      <a class="btn btn-primary-flat" href="/Website-2ndTime">
                         <span class="btn-text">กลับสู่หน้าหลัก</span>
                       </a>
                     </div>
