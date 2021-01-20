@@ -347,7 +347,7 @@
         <div class="slide-item layout-default">
           <div class="inner">
             <!--	Desktop -->
-            <div class="dt-only" style="background-image: url(/images/Banner_Lumpsum.jpg)">
+            <div class="dt-only" style="background-image: url(/public/assets/images/Banner_Lumpsum.jpg)">
               <div class="content-wrap tac-container-1">
                 <div class="content">
                   <h4 class="">ประกันสุขภาพออนไลน์</h4>
@@ -358,7 +358,7 @@
             </div>
             <!--	Mobile -->
             <div class="mb-only">
-              <div class="img-bg" style="background-image: url(/images/Banner_Lumpsum-mb.jpg)"></div>
+              <div class="img-bg" style="background-image: url(/public/assets/images/Banner_Lumpsum-mb.jpg)"></div>
               <div class="content-wrap tac-container-1">
                 <div class="content">
                   <h4 class="">ประกันสุขภาพออนไลน์</h4>

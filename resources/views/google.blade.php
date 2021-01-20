@@ -3031,7 +3031,7 @@
                                 }
 
                                 .pR49Ae span {
-                                    background: url("/images/experiments/wavy-underline.png") repeat-x scroll 0 100% transparent;
+                                    background: url("/public/assets/images/experiments/wavy-underline.png") repeat-x scroll 0 100% transparent;
                                     padding: 0 0 10px 0;
                                 }</style>
                                 <div class="pR49Ae gsfi" jsname="vdLsw"></div>
@@ -3209,7 +3209,7 @@
                         }
 
                         .sb27 {
-                            background: url(/images/searchbox/desktop_searchbox_sprites302_hr.webp) no-repeat 0 -21px;
+                            background: url(/public/assets/images/searchbox/desktop_searchbox_sprites302_hr.webp) no-repeat 0 -21px;
                             background-size: 20px;
                             min-height: 20px;
                             min-width: 20px;
@@ -3218,7 +3218,7 @@
                         }
 
                         .sb43 {
-                            background: url(/images/searchbox/desktop_searchbox_sprites302_hr.webp) no-repeat 0 0;
+                            background: url(/public/assets/images/searchbox/desktop_searchbox_sprites302_hr.webp) no-repeat 0 0;
                             background-size: 20px;
                             min-height: 20px;
                             min-width: 20px;

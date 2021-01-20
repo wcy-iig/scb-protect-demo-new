@@ -273,7 +273,7 @@
       <div class="tac-container-1">
         <div class="row">
           <div class="col-12">
-            <img src="images/VRHC-BY-BDMS-01.jpg" width="100%">
+            <img src="../../public/assets/images/VRHC-BY-BDMS-01.jpg" width="100%">
           </div>
         </div>
       </div>

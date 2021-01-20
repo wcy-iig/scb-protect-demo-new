@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c577513e-457c-40e8-91e7-3d80c2af617e" name="Default Changelist" comment="commit code all">
-      <change beforePath="$PROJECT_DIR$/resources/views/ipad_purchase_success.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ipad_purchase_success.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="c577513e-457c-40e8-91e7-3d80c2af617e" name="Default Changelist" comment="commit code all" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +197,7 @@
       <updated>1611057209898</updated>
       <workItem from="1611057217816" duration="13490000" />
       <workItem from="1611072376278" duration="698000" />
-      <workItem from="1611081206711" duration="3417000" />
+      <workItem from="1611081206711" duration="4291000" />
     </task>
     <task id="LOCAL-00001" summary="commit code all">
       <created>1611069171046</created>
@@ -250,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611084448879</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit code all">
+      <created>1611084658712</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611084658712</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit code all">
+      <created>1611084839019</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611084839019</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,11 +298,11 @@
     </state>
     <state x="-1330" y="199" key="RollbackChangesDialog/0.0.1440.900/-1920.-56.1920.1080@-1920.-56.1920.1080" timestamp="1611058332056" />
     <state x="2510" y="257" key="RollbackChangesDialog/0.0.1920.1040/1920.11.1920.1040@1920.11.1920.1040" timestamp="1611083727870" />
-    <state x="2347" y="227" key="Vcs.Push.Dialog.v2" timestamp="1611084147538">
+    <state x="2347" y="227" key="Vcs.Push.Dialog.v2" timestamp="1611084661316">
       <screen x="1920" y="11" width="1920" height="1040" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-56.1920.1080@0.0.1440.900" timestamp="1611073153306" />
-    <state x="2347" y="227" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.11.1920.1040@1920.11.1920.1040" timestamp="1611084147538" />
+    <state x="2347" y="227" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.11.1920.1040@1920.11.1920.1040" timestamp="1611084661316" />
     <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1611072405601">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -288,7 +288,7 @@
                 </div>
                 <p class="mt-4 text-center" style="color: #7e7e7e;">
                   Secured by
-                  <img src="images/2C2P-Logo.wine.png" height="34px">
+                  <img src="../../public/assets/images/2C2P-Logo.wine.png" height="34px">
                 </p>
               </div>
 
@@ -296,7 +296,7 @@
 
             <div class="col-lg-4 col-12">
               <div style="box-shadow: 1px 1px 1.75rem 0 rgba(122, 88, 191, 0.2);border-radius: 1rem;overflow: hidden;background-color: #ffffff;">
-                <div style="background: url(images/head-elipse.svg) no-repeat center bottom/600% auto;color: #F7B334;padding: 1.5rem 1rem;;text-align: center;">
+                <div style="background: url(public/assets/images/head-elipse.svg) no-repeat center bottom/600% auto;color: #F7B334;padding: 1.5rem 1rem;;text-align: center;">
                   <h4 style="font-size: 30px;margin: 0;">ประกันภัยสุขภาพและอุบัติเหตุ Viriyah Healthcare by BDMS</h4>
                 </div>
                 <div style=" padding: 0 30px;text-align: center;color: #2f1761;">

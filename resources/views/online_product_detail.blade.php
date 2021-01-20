@@ -219,7 +219,7 @@
     <div class="slide-item layout-default">
       <div class="inner">
         <!--	Desktop -->
-        <div class="dt-only" style="background-image: url(images/Banner_Lumpsum.jpg)">
+        <div class="dt-only" style="background-image: url(public/assets/images/Banner_Lumpsum.jpg)">
           <div class="content-wrap tac-container-1">
             <div class="content">
               <h3 class="">แผนคุ้มรักษาเหมาจ่าย</h3>
@@ -230,7 +230,7 @@
                     <use xlink:href="#ti-download"/>
                   </svg>
                   <span class="btn-text">ดาวน์โหลดโบรชัวร์</span>
-                </a>			  
+                </a>
                 <a class="btn btn-share btn-primary-flat" href="/uploads/file/brochure/brochure-health-lumpsum.pdf">
                   <svg>
                     <use xlink:href="#ti-share"/>
@@ -243,7 +243,7 @@
         </div>
         <!--	Mobile -->
         <div class="mb-only">
-          <div class="img-bg" style="background-image: url(images/Banner_Lumpsum-mb.jpg)"></div>
+          <div class="img-bg" style="background-image: url(public/assets/images/Banner_Lumpsum-mb.jpg)"></div>
           <div class="content-wrap tac-container-1">
             <div class="content">
               <h3 class="">แผนคุ้มรักษาเหมาจ่าย</h3>
@@ -254,7 +254,7 @@
                     <use xlink:href="#ti-download"/>
                   </svg>
                   <span class="btn-text">ดาวน์โหลดโบรชัวร์</span>
-                </a>			  
+                </a>
                 <a class="btn btn-share btn-primary-flat" href="/uploads/file/brochure/brochure-health-lumpsum.pdf">
                   <svg>
                     <use xlink:href="#ti-share"/>
@@ -276,7 +276,7 @@
   <div class="tac-container-1">
     <div class="sec-2col sec-2col--reversed typo-2">
       <div class="col-first">
-        <img class="w-100 img-rounded box-shadow-1" src="images/lumpsum-small.jpg">
+        <img class="w-100 img-rounded box-shadow-1" src="../../public/assets/images/lumpsum-small.jpg">
       </div>
       <div class="col-last align-self-center">
         <p>เป็นเจ้าของกิจการที่ทุ่มเททุกอย่างไปกับการทำงาน<br class="dt-only">วางแผนการเงินของธุรกิจและครอบครัว จะเลือกใช้อะไร<br class="dt-only">ก็คิดเสมอว่าต้องคุ้มค่า เรื่องดูแลสุขภาพก็เช่นกัน<br class="dt-only"> เราต้องเลือกสิ่งที่ดีที่สุด</p>
@@ -291,10 +291,10 @@
 <section id="features">
   <div class="banner-features typo-2">
     <div class="img-full-width dt-only"
-         style="background-image: url(images/Pic_icon_Lumpsum.jpg)">
+         style="background-image: url(public/assets/images/Pic_icon_Lumpsum.jpg)">
     </div>
     <div class="img-full-width mb-only"
-         style="background-image: url(images/Pic_icon_Lumpsum.jpg)">
+         style="background-image: url(public/assets/images/Pic_icon_Lumpsum.jpg)">
     </div>
     <div class="tac-container-1">
       <div class="content-wrap">
@@ -311,7 +311,7 @@
       <div class="feat effect-item col-sm-6 col-lg-3">
         <div class="feat-inner">
           <div class="feat-icon">
-            <img src="images/hospital.png">
+            <img src="../../public/assets/images/hospital.png">
           </div>
           <div class="feat-content">
             <h5><span class="color-secondary">คุ้ม</span>ครอบคลุม</h5>
@@ -324,7 +324,7 @@
       <div class="feat effect-item col-sm-6 col-lg-3">
         <div class="feat-inner">
           <div class="feat-icon">
-            <img src="images/checkup.png">
+            <img src="../../public/assets/images/checkup.png">
           </div>
           <div class="feat-content">
             <h5><span class="color-secondary">คุ้ม</span>ครองไร้กังวล</h5>
@@ -337,7 +337,7 @@
       <div class="feat effect-item col-sm-6 col-lg-3">
         <div class="feat-inner">
           <div class="feat-icon">
-            <img src="images/worth-confident@2x.png">
+            <img src="../../public/assets/images/worth-confident@2x.png">
           </div>
           <div class="feat-content">
             <h5><span class="color-secondary">คุ้ม</span>รักษา</h5>
@@ -350,7 +350,7 @@
       <div class="feat effect-item col-sm-6 col-lg-3">
         <div class="feat-inner">
           <div class="feat-icon">
-            <img src="images/hand-bath.png">
+            <img src="../../public/assets/images/hand-bath.png">
           </div>
           <div class="feat-content">
             <h5><span class="color-secondary">คุ้ม</span>สบายใจ</h5>
@@ -368,7 +368,7 @@
 <section id="plans" data-onepage="แผนต่างๆ">
   <div class="tac-container-1">
     <h2>ผลประโยชน์ความคุ้มครอง แผนคุ้มรักษาเหมาจ่าย</h2>
-    <a class="img-popup w-100" href="images/table-lumpsum.jpg">
+    <a class="img-popup w-100" href="../../public/assets/images/table-lumpsum.jpg">
     <div class="plan-table-title">ตารางเปรียบเทียบผลประโยชน์ความคุ้มครอง </div>
     </a>
 		<div id="priceTable1"></div>  <script>
@@ -399,7 +399,7 @@
             <li>แผน Grand : อายุ 1 เดือน 1 วัน - 70 ปี ต่ออายุได้ถึงอายุ 84 ปี (คุ้มครองถึงอายุ 85 ปี)</li>
             <li>แผน Ultra : อายุ 1 เดือน 1 วัน - 60 ปี ต่ออายุได้ถึงอายุ 84 ปี (คุ้มครองถึงอายุ 85 ปี)</li>
           </ul>
-		  
+
 		  <h5>สัญญาเพิ่มเติมค่ารักษาพยาบาลรายวัน แบบเฮชบี </h5>
           <ul class="bullet-dash indent">
             <li>อายุ 3 - 60 ปี ต่ออายุได้ถึง อายุ 64 ปี  (คุ้มครองถึงอายุ 65 ปี)</li>
@@ -418,8 +418,8 @@
             </li>
             <li>การพิจารณารับประกันภัยเป็นไปตามหลักเกณฑ์และเงื่อนไขของบริษัท เอฟดับบลิวดี ประกันชีวิต จำกัด (มหาชน)</li>
           </ul>
-        </div>		
-	
+        </div>
+
       </div>
 
       <!-- Level 1 Item -->
@@ -535,7 +535,7 @@
 			<use xlink:href="#ti-download"/>
 		  </svg>
 		  <span class="btn-text">ดาวน์โหลดโบรชัวร์</span>
-		</a>			  
+		</a>
 		<a class="btn btn-share btn-primary-flat" href="/uploads/file/brochure/brochure-health-lumpsum.pdf">
 		  <svg>
 			<use xlink:href="#ti-share"/>
@@ -549,7 +549,7 @@
 </section>
 
 <section class="sec-buy-insurance ">
-	
+
 <div class="tac-container-2 form-buy-ins-cnt">
   <h2 class="title-section">สอบถามข้อมูลเพิ่มเติม</h2>
   <h5>กรุณากรอกข้อมูลเพื่อให้ทางเรา<br class="d-md-none"/>สามารถติดต่อกลับไป</h5>
@@ -664,7 +664,7 @@
         <div class="footer__cp">
           <a href="http://oiceservice.oic.or.th/">
             ตรวจสอบนายหน้า
-          </a> | 
+          </a> |
           © สงวนลิขสิทธิ์ 2563<br class="d-md-none"/> บริษัท ไทยพาณิชย์ โพรเทค จำกัด
         </div>
       </div>

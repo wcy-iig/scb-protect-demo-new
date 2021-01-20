@@ -219,7 +219,7 @@
     <div class="slide-item layout-default">
       <div class="inner">
         <!--	Desktop -->
-        <div class="dt-only" style="background-image: url(/images/Banner_Lumpsum.jpg)">
+        <div class="dt-only" style="background-image: url(/public/assets/images/Banner_Lumpsum.jpg)">
           <div class="content-wrap tac-container-1">
             <div class="content">
               <h3 class="">แผนคุ้มรักษาเหมาจ่าย</h3>
@@ -243,7 +243,7 @@
         </div>
         <!--	Mobile -->
         <div class="mb-only">
-          <div class="img-bg" style="background-image: url(/images/Banner_Lumpsum-mb.jpg)"></div>
+          <div class="img-bg" style="background-image: url(/public/assets/images/Banner_Lumpsum-mb.jpg)"></div>
           <div class="content-wrap tac-container-1">
             <div class="content">
               <h3 class="">แผนคุ้มรักษาเหมาจ่าย</h3>
@@ -291,10 +291,10 @@
 <section id="features">
   <div class="banner-features typo-2">
     <div class="img-full-width dt-only"
-         style="background-image: url(/images/Pic_icon_Lumpsum.jpg)">
+         style="background-image: url(/public/assets/images/Pic_icon_Lumpsum.jpg)">
     </div>
     <div class="img-full-width mb-only"
-         style="background-image: url(/images/Pic_icon_Lumpsum.jpg)">
+         style="background-image: url(/public/assets/images/Pic_icon_Lumpsum.jpg)">
     </div>
     <div class="tac-container-1">
       <div class="content-wrap">

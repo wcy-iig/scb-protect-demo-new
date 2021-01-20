@@ -38,12 +38,12 @@
                 style="margin: auto;">
                 <tr>
                     <td valign="top" style="padding: .75em 2.5em;background-color: #fff;">
-                        <a href="/"><img src="images/logo-scb-protect-long.png" alt=""
-                                style="height: 50px;width: auto;"></a>
+                        <a href="/"><img src="../../public/assets/images/logo-scb-protect-long.png" alt=""
+                                         style="height: 50px;width: auto;"></a>
                     </td>
                 </tr><!-- end tr -->
                 <tr>
-                    <td style="background-color: #fff;"> 
+                    <td style="background-color: #fff;">
                         <hr style="height: 10px;border: 0;box-shadow: 0 10px 10px -13px #8c8c8c inset;margin-top: 0;">
                     </td>
                 </tr>
@@ -62,7 +62,7 @@
                         <div
                             style="box-shadow: 1px 1px 1.75rem 0 rgba(122, 88, 191, 0.2);border-radius: 1rem;overflow: hidden;background-color: #ffffff;">
                             <div
-                                style="background: url(images/head-elipse.svg) no-repeat center bottom/600% auto;color: #F7B334;padding: 1.5rem 1rem;;text-align: center;">
+                                style="background: url(public/assets/images/head-elipse.svg) no-repeat center bottom/600% auto;color: #F7B334;padding: 1.5rem 1rem;;text-align: center;">
                                 <h4 style="font-size: 30px;margin: 0;">แผนคุ้มรักษาเหมาจ่าย</h4>
                             </div>
                             <div style=" padding: 0 30px;text-align: center;color: #2f1761;">
@@ -147,7 +147,7 @@
                             <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0"
                                 width="100%" style="margin: auto;">
                                 <tr>
-                                    <td style="background: url(images/footer-bg.svg) no-repeat right top / 107.29167% auto;height: 130px;"></td>
+                                    <td style="background: url(public/assets/images/footer-bg.svg) no-repeat right top / 107.29167% auto;height: 130px;"></td>
                                 </tr>
                                 <tr>
                                     <td valign="middle" style="padding-bottom: 0.75em;background-color: #3A285F;">
@@ -162,12 +162,12 @@
                                                 <td valign="middle" width="30%" style="padding-right:2.5em;text-align:right;">
                                                     <ul style="padding: 0;margin: 0px 0 10px 0;">
 														<li style="display: inline-block;margin-right: 10px;">
-															<img src="images/icon_ig.png" alt=""
-																style="width: 24px; max-width: 600px; height: auto; display: block;">
+															<img src="../../public/assets/images/icon_ig.png" alt=""
+                                                                 style="width: 24px; max-width: 600px; height: auto; display: block;">
 														</li>
 														<li style="display: inline-block;margin-right: 10px;">
-															<img src="images/icon_facebook.png" alt=""
-																style="width: 24px; max-width: 600px; height: auto; display: block;">
+															<img src="../../public/assets/images/icon_facebook.png" alt=""
+                                                                 style="width: 24px; max-width: 600px; height: auto; display: block;">
 														</li>
 													</ul>
                                                 </td>

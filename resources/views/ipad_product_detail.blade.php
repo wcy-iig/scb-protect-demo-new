@@ -345,14 +345,14 @@
     </section> -->
 
     <section id="intro">
-      <img src="images/VRHC-BY-BDMS-01.jpg" width="100%">
+      <img src="../../public/assets/images/VRHC-BY-BDMS-01.jpg" width="100%">
     </section>
 
     <section id="info">
       <div class="tac-container-1">
         <div class="sec-2col sec-2col--reversed typo-2">
           <div class="col-first">
-            <img class="w-100 img-rounded box-shadow-1" src="images/lumpsum-small.jpg">
+            <img class="w-100 img-rounded box-shadow-1" src="../../public/assets/images/lumpsum-small.jpg">
           </div>
           <div class="col-last align-self-center">
             <p>เป็นเจ้าของกิจการที่ทุ่มเททุกอย่างไปกับการทำงาน<br class="dt-only">วางแผนการเงินของธุรกิจและครอบครัว จะเลือกใช้อะไร<br class="dt-only">ก็คิดเสมอว่าต้องคุ้มค่า เรื่องดูแลสุขภาพก็เช่นกัน<br class="dt-only"> เราต้องเลือกสิ่งที่ดีที่สุด</p>
@@ -367,10 +367,10 @@
     <section id="features">
       <div class="banner-features typo-2">
         <div class="img-full-width dt-only"
-             style="background-image: url(images/Pic_icon_Lumpsum.jpg)">
+             style="background-image: url(public/assets/images/Pic_icon_Lumpsum.jpg)">
         </div>
         <div class="img-full-width mb-only"
-             style="background-image: url(images/Pic_icon_Lumpsum.jpg)">
+             style="background-image: url(public/assets/images/Pic_icon_Lumpsum.jpg)">
         </div>
         <div class="tac-container-1">
           <div class="content-wrap">
@@ -387,7 +387,7 @@
           <div class="feat effect-item col-sm-6 col-lg-3">
             <div class="feat-inner">
               <div class="feat-icon">
-                <img src="images/hospital.png">
+                <img src="../../public/assets/images/hospital.png">
               </div>
               <div class="feat-content">
                 <h5><span class="color-secondary">คุ้ม</span>ครอบคลุม</h5>
@@ -400,7 +400,7 @@
           <div class="feat effect-item col-sm-6 col-lg-3">
             <div class="feat-inner">
               <div class="feat-icon">
-                <img src="images/checkup.png">
+                <img src="../../public/assets/images/checkup.png">
               </div>
               <div class="feat-content">
                 <h5><span class="color-secondary">คุ้ม</span>ครองไร้กังวล</h5>
@@ -413,7 +413,7 @@
           <div class="feat effect-item col-sm-6 col-lg-3">
             <div class="feat-inner">
               <div class="feat-icon">
-                <img src="images/worth-confident@2x.png">
+                <img src="../../public/assets/images/worth-confident@2x.png">
               </div>
               <div class="feat-content">
                 <h5><span class="color-secondary">คุ้ม</span>รักษา</h5>
@@ -426,7 +426,7 @@
           <div class="feat effect-item col-sm-6 col-lg-3">
             <div class="feat-inner">
               <div class="feat-icon">
-                <img src="images/hand-bath.png">
+                <img src="../../public/assets/images/hand-bath.png">
               </div>
               <div class="feat-content">
                 <h5><span class="color-secondary">คุ้ม</span>สบายใจ</h5>
@@ -444,7 +444,7 @@
     <section id="plans" data-onepage="แผนต่างๆ">
       <div class="tac-container-1">
         <h2>ผลประโยชน์ความคุ้มครอง แผนคุ้มรักษาเหมาจ่าย</h2>
-        <a class="img-popup w-100" href="images/table-lumpsum.jpg">
+        <a class="img-popup w-100" href="../../public/assets/images/table-lumpsum.jpg">
           <div class="plan-table-title">ตารางเปรียบเทียบผลประโยชน์ความคุ้มครอง </div>
         </a>
         <div id="priceTable1"></div>  <script>

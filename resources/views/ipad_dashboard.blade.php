@@ -126,7 +126,7 @@
           <div class="grid1">
             <div class="col-12">
               <div class="mt-4">
-                <img src="images/banner-RED3-desktop.jpg" width="100%" style="border-radius: 1rem; box-shadow: 1px 1px 1.75rem 0 rgba(122, 88, 191, 0.2);">
+                <img src="../../public/assets/images/banner-RED3-desktop.jpg" width="100%" style="border-radius: 1rem; box-shadow: 1px 1px 1.75rem 0 rgba(122, 88, 191, 0.2);">
               </div>
             </div>
           </div>
